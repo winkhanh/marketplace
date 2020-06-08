@@ -1,0 +1,3 @@
+[submodule "marketplace-mobile"]
+	path = marketplace-mobile
+	url = https://github.com/winkhanh/marketplace-mobile.git
